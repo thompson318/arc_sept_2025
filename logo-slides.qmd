@@ -1,9 +1,10 @@
 ---
-title: Lorem ipsum dolor sit amet
-author: Dr Eva Lu Ator
+title: Development and use of (Serious) Games in Research
+author: Stephen Thompson
 institute: Centre for Advanced Research Computing
-title-image: images/placeholder.svg
+title-image: images/what-is-it.gif
 title-image-width: 40%
+title-image-alt: A short video of a simulated ultrasound probe moving over a banana taped to a wall
 format:
   revealjs:
     logo: images/arc-logo.svg

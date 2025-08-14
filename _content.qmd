@@ -1,11 +1,18 @@
-## 🏛️ Introducing ARC
+## 🏛️ Introducing Stephen
 
-> UCL’s research, innovation & service centre for the tools, practices, systems and people that enable computational science and digital scholarship.
+> Senior Research Software Engineer Since October 2023
 
-- We provide advanced, reliable and secure digital research infrastructure – including hardware, software, data and skills – to researchers in UCL and beyond​.
-- We are a laboratory for research, teaching and innovation in compute, data and software intensive research methods​.
+- Background in augmented reality for keyhole surgery.
+- informus, teaching, EMAP, etc.
+- Interested in how people collaborate with intelligent machines. 
 
-## 🧑‍💻 Professional expertise
+## Game Engines in Research
+
+[![A literature review on game engine use in research.](images/og_preview.png){fig-alt="A sample table listing game engine names and number of papers." height=300}](https://thompson318.github.io/game_engine_software/)
+
+<https://thompson318.github.io/game_engine_software/>
+
+## 🧑💻 Professional expertise
 
 :::columns
 
