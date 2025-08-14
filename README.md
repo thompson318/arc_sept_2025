@@ -1,6 +1,6 @@
 # Slides for presentation on "Games in Research" for ARC Collaborations Hour 16th September 2025
 
-Slides for a presentation to [ARC](https://www.ucl.ac.uk/advanced-research-computing/) collaborations hour, focussing on past and future work on games for research.
+Slides for a presentation to [ARC](https://www.ucl.ac.uk/advanced-research-computing/) collaborations hour, focussing on past and future work on games for research. You can build locally with `quarto render` or use the publish [action](.github/workflows/publish.yml).
 
 ## Related Work
 [Serious Games Blog](https://blogs.ucl.ac.uk/research-software-development/using-serious-games-for-research-in-keyhole-surgery/)
