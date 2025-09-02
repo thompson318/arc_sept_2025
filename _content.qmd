@@ -1,16 +1,42 @@
+## Games in Research
+
+- (Re) Introducing Stephen Thompson
+- Work to date - a serious game to study key hole surgery. 
+- Opportunities to participate:
+  - A literature review on game development in research. 
+  - Upcoming project - Exergaming: a serious game for dizziness disorder rehabilitation [#1137](https://github.com/UCL-ARC/arc-opportunities-tracker/issues/1137).
+
 ## 🏛️ Introducing Stephen
 
-> Senior Research Software Engineer Since October 2023
+- Senior Research Software Engineer Since October 2023
 
 - Background in augmented reality for keyhole surgery.
 - informus, teaching, EMAP, etc.
 - Interested in how people collaborate with intelligent machines. 
+
+## 🏛️ Introducing Stephen With Scratch
+
+```{=html}
+<iframe src="https://scratch.mit.edu/projects/958976130/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+```
+
+## Blood Vessel Game
+
+```{=html}
+<iframe width="780" height="500" src="" title="Webpage example"></iframe>
+```
 
 ## Game Engines in Research
 
 [![A literature review on game engine use in research.](images/og_preview.png){fig-alt="A sample table listing game engine names and number of papers." height=300}](https://thompson318.github.io/game_engine_software/)
 
 <https://thompson318.github.io/game_engine_software/>
+
+## Game Engines in Research
+
+```{=html}
+<iframe width="90%" height="90%" src="https://thompson318.github.io/game_engine_software/" title="A table of game engine software."></iframe>
+```
 
 ## 🧑💻 Professional expertise
 
