@@ -11,20 +11,63 @@
 - Senior Research Software Engineer Since October 2023
 
 - Background in augmented reality for keyhole surgery.
-- informus, teaching, EMAP, etc.
+- informus, teaching, EMAP, sense etc.
 - Interested in how people collaborate with intelligent machines. 
 
 ## 🏛️ Introducing Stephen With Scratch
 
 ```{=html}
-<iframe src="https://scratch.mit.edu/projects/958976130/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/958976130/embed" allowtransparency="true" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
 ```
 
-## Blood Vessel Game
+## Some Human Interest Pictures
+
+A white tailed sea eagle. Something on the water. Cricket. Bicycle.
+
+## Beginning of Games for Research - SciKit-SurgeryFRED
 
 ```{=html}
-<iframe width="780" height="500" src="" title="Webpage example"></iframe>
+<iframe width="90%" height="90%" src="https://scikit-surgeryfred.ew.r.appspot.com/" title="A table of game engine software."></iframe>
 ```
+
+## 2023 Blood Vessel Game
+
+```{=html}
+<iframe width="100%" height="100%" src="https://scikit-surgery.github.io/Blood-Vessel-Game/" title="Webpage example"></iframe>
+```
+
+## Publication - JMIR Serious Games
+
+```{=html}
+<iframe width="100%" height="100%" src="https://games.jmir.org/2025/1/e56269/" title="Webpage example"></iframe>
+```
+
+<https://github.com/SciKit-Surgery/Blood-Vessel-Game>
+
+## With Self Citation
+
+```{=html}
+<iframe width="100%" height="100%" src="https://github.com/phaserjs/phaser/commit/32c82ef7283feb85eff71ab4f5298ff17fd8e3c4" title="Webpage example"></iframe>
+```
+
+## 2024 Vessel Game
+
+```{=html}
+<iframe width="100%" height="100%" src="https://vessel-game.ew.r.appspot.com/" title="Webpage example"></iframe>
+```
+
+<https://github.com/SciKit-Surgery/vessel-game>
+
+## 2025 Blood Vessel Game with Distraction
+
+```{=html}
+<iframe width="100%" height="100%" src="https://vessel-game-project.vercel.app/" title="Webpage example"></iframe>
+```
+
+<https://github.com/Ash2002-a/Vessel-Game-Project>
+
+
+
 
 ## Game Engines in Research
 
