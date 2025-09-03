@@ -27,33 +27,35 @@ A white tailed sea eagle. Something on the water. Cricket. Bicycle.
 ## Beginning of Games for Research - SciKit-SurgeryFRED
 
 ```{=html}
-<iframe width="90%" height="90%" src="https://scikit-surgeryfred.ew.r.appspot.com/" title="A table of game engine software."></iframe>
+<iframe width="90%" height="80%" src="https://scikit-surgeryfred.ew.r.appspot.com/" title="SciKit-SurgeryFRED"></iframe>
 ```
 
 ## 2023 Blood Vessel Game
 
 ```{=html}
-<iframe width="100%" height="100%" src="https://scikit-surgery.github.io/Blood-Vessel-Game/" title="Webpage example"></iframe>
-```
-
-## Publication - JMIR Serious Games
-
-```{=html}
-<iframe width="100%" height="100%" src="https://games.jmir.org/2025/1/e56269/" title="Webpage example"></iframe>
+<iframe width="100%" height="80%" src="https://scikit-surgery.github.io/Blood-Vessel-Game/" title="The first blood vessel game."></iframe>
 ```
 
 <https://github.com/SciKit-Surgery/Blood-Vessel-Game>
 
+## Publication - JMIR Serious Games
+
+```{=html}
+<iframe width="100%" height="80%" src="https://games.jmir.org/2025/1/e56269/" title="Webpage example"></iframe>
+```
+
 ## With Self Citation
 
 ```{=html}
-<iframe width="100%" height="100%" src="https://github.com/phaserjs/phaser/commit/32c82ef7283feb85eff71ab4f5298ff17fd8e3c4" title="Webpage example"></iframe>
+<iframe width="100%" height="60%" src="https://github.com/phaserjs/phaser/commit/32c82ef7283feb85eff71ab4f5298ff17fd8e3c4" title="Webpage example"></iframe>
 ```
+
+<https://github.com/phaserjs/phaser/commit/32c82ef7283feb85eff71ab4f5298ff17fd8e3c4>
 
 ## 2024 Vessel Game
 
 ```{=html}
-<iframe width="100%" height="100%" src="https://vessel-game.ew.r.appspot.com/" title="Webpage example"></iframe>
+<iframe width="100%" height="60%" src="https://vessel-game.ew.r.appspot.com/" title="The second blood vessel game"></iframe>
 ```
 
 <https://github.com/SciKit-Surgery/vessel-game>
@@ -61,19 +63,11 @@ A white tailed sea eagle. Something on the water. Cricket. Bicycle.
 ## 2025 Blood Vessel Game with Distraction
 
 ```{=html}
-<iframe width="100%" height="100%" src="https://vessel-game-project.vercel.app/" title="Webpage example"></iframe>
+<iframe width="100%" height="60%" src="https://vessel-game-project.vercel.app/" title="The third blood vessel game."></iframe>
 ```
 
 <https://github.com/Ash2002-a/Vessel-Game-Project>
 
-
-
-
-## Game Engines in Research
-
-[![A literature review on game engine use in research.](images/og_preview.png){fig-alt="A sample table listing game engine names and number of papers." height=300}](https://thompson318.github.io/game_engine_software/)
-
-<https://thompson318.github.io/game_engine_software/>
 
 ## Game Engines in Research
 
