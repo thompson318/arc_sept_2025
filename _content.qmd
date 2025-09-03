@@ -44,6 +44,7 @@ A white tailed sea eagle. Something on the water. Cricket. Bicycle.
 <iframe width="100%" height="80%" src="https://games.jmir.org/2025/1/e56269/" title="Webpage example"></iframe>
 ```
 
+Task performance time is linked to field of view.
 ## With Self Citation
 
 ```{=html}
@@ -68,6 +69,10 @@ A white tailed sea eagle. Something on the water. Cricket. Bicycle.
 
 <https://github.com/Ash2002-a/Vessel-Game-Project>
 
+## 2025 ARC Blog
+```{=html}
+<iframe width="100%" src="https://blogs.ucl.ac.uk/research-software-development/using-serious-games-for-research-in-keyhole-surgery/" title="Blog on games for research in keyhole surgery."></iframe>
+```
 
 ## Game Engines in Research
 
