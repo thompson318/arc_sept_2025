@@ -27,6 +27,7 @@ A white tailed sea eagle. Something on the water. Cricket. Bicycle.
 ## Beginning of Games for Teaching and Research
 
 - Developing and effective method to teach the statistics of point (fiducual) based registration (during covid lockdown).
+- Uses a game for formative assessment.
 
 [SciKit-Surgery F.R.E.D.](https://scikit-surgeryfred.ew.r.appspot.com/)
 
@@ -88,7 +89,7 @@ Task performance time is linked to field of view.
 ## Game Engines in Research
 
 ```{=html}
-<iframe width="90%" height="90%" src="https://thompson318.github.io/game_engine_software/" title="A table of game engine software."></iframe>
+<iframe width="90%" height="90%" src="https://github-pages.arc.ucl.ac.uk/game_engines_for_research/" title="A table of game engine software."></iframe>
 ```
 
 ## 🧑💻 Professional expertise
