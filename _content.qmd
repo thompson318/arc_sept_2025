@@ -24,11 +24,22 @@
 
 A white tailed sea eagle. Something on the water. Cricket. Bicycle.
 
-## Beginning of Games for Research - SciKit-SurgeryFRED
+## Beginning of Games for Teaching and Research
+
+- Developing and effective method to teach the statistics of point (fiducual) based registration (during covid lockdown).
+
+[SciKit-Surgery F.R.E.D.](https://scikit-surgeryfred.ew.r.appspot.com/)
+
+## SciKit-Surgery F.R.E.D. in frame.
 
 ```{=html}
-<iframe width="90%" height="80%" src="https://scikit-surgeryfred.ew.r.appspot.com/" title="SciKit-SurgeryFRED"></iframe>
+<iframe width="100%" height="80%" src="https://scikit-surgeryfred.ew.r.appspot.com/" title="SciKit-SurgeryFRED" style="-webkit-transform:scale(1.0);-moz-transform-scale(1.0);" ></iframe>
 ```
+
+## SciKit-Surgery F.R.E.D. Results
+
+![](images/scikit-surgeryfred.png){width=100% fig-alt="Column plot showing the game scores on from a cohort of 20 students. Students scored most highly when give the actual target registration error.}}
+
 
 ## 2023 Blood Vessel Game
 
