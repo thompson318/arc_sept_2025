@@ -1,51 +1,55 @@
-## Games in Research
+## Today's Talk
 
 -   (Re) Introducing Stephen Thompson
--   Work to date - a serious game to study key hole surgery.
+-   Work to date - serious games to study key hole surgery.
 -   Opportunities to participate:
     -   A literature review on game development in research.
-    -   Upcoming project - Exergaming: a serious game for dizziness disorder rehabilitation [#1137](https://github.com/UCL-ARC/arc-opportunities-tracker/issues/1137).
+    -   Upcoming project - Exergaming: a serious game for dizziness disorder rehabilitation [#1137](https://github.com/UCL-ARC/arc-opportunities-tracker/issues/1137 "Exergaming on ARC Opportunity Tracker").
 
-## 🏛️ Introducing Stephen
+## Introducing Stephen
 
 -   Senior Research Software Engineer Since October 2023
 
 -   Background in augmented reality for keyhole surgery.
 
--   informus, teaching, EMAP, sense etc.
+-   informus, education, EMAP, sense-base.
 
--   Interested in how people collaborate with intelligent machines.
+-   Research: how people collaborate with intelligent machines.
 
-## 🏛️ Introducing Stephen With Scratch
+## Human Interest 0 - Background
 
 ```{=html}
 <iframe src="https://scratch.mit.edu/projects/958976130/embed" allowtransparency="true" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
 ```
 
-## Some Human Interest - My Summer 👎
+## Human Interest 1 - My Summer 👎
 
--   Usual summer; lots of water sports.
+-   Usual summer; camping and water sports.
 
-    ![](images/clipboard-3335579666.gif){fig-alt="Video of me leaping out of the sea and landing upright on a paddle board - yes really." width="240"}
+    ![](images/clipboard-3335579666.gif){fig-alt="Video of me leaping out of the sea and landing upright on a paddle board - yes really." height="280"} ![](images/alfie.jpg){fig-alt="Photo of a Silver Ducato Campervan." height="280"}
 
 <!-- -->
 
--   This summer: 👨‍👨‍👧‍👦 🏥🦴🧑‍🔧🚗 = less time on the water.
+-   This summer: 👨‍👨‍👧‍👦 🏥🦴🧑‍🔧🚗 = less camping less water.
 
-## Some Human Interest - My Summer 👍
+## Human Interest 2 - My Summer 👍
 
 -   More time for [Cricket.](https://cwc.play-cricket.com/website/results/6805674 "My Cricket results on Play Cricket.")
 
--   🦅![](images/sea-eagle.jpg "alt-fig="An indistinct photo of a white tailed eagle perched on a rock.""){width="240"}
+-   🦅![](images/sea-eagle_crop.jpg "alt-fig="An indistinct photo of a white tailed eagle perched on a rock.""){width="240"}
 
-## Beginning of Games for Teaching and Research
+## Human Interest 3 - My Summer 👍
 
+-   🚴 ![](images/bike_with_chicken_food.jpg "alt-fig="Photo of red cargo bike with bag of chicken food attached.""){width="240"}
+-   🐔 ![](images/chick.jpg "alt-fig="Photo of a cute chick.""){width="240"}
+
+## Games for Teaching and Research
+
+-   2019 - [SciKit-Surgery F.R.E.D.](https://scikit-surgeryfred.ew.r.appspot.com/ "Scikit-Surgery FRED, web applicatin for teaching point based registration.")
 -   Developing and effective method to teach the statistics of point (fiducual) based registration (during covid lockdown).
 -   Uses a game for formative assessment.
 
-[SciKit-Surgery F.R.E.D.](https://scikit-surgeryfred.ew.r.appspot.com/)
-
-## SciKit-Surgery F.R.E.D. in frame.
+## SciKit-Surgery F.R.E.D.
 
 ```{=html}
 <iframe width="100%" height="80%" src="https://scikit-surgeryfred.ew.r.appspot.com/" title="SciKit-SurgeryFRED" style="-webkit-transform:scale(1.0);-moz-transform-scale(1.0);" ></iframe>
@@ -53,9 +57,9 @@
 
 ## SciKit-Surgery F.R.E.D. Results
 
-![](images/scikit-surgeryfred.png){width=100% fig-alt="Column plot showing the game scores on from a cohort of 20 students. Students scored most highly when give the actual target registration error."}
+![](images/scikit-surgeryfred.png){width="100%" fig-alt="Column plot showing the game scores on from a cohort of 20 students. Students scored most highly when give the actual target registration error."}
 
-## 2023 Blood Vessel Game
+## 2023 Blood Vessel Game: Phoebe Whitley ![](images/phoebe.png){width="40" fig-alt="Phoebe Whitley"}
 
 ```{=html}
 <iframe width="100%" height="80%" src="https://scikit-surgery.github.io/Blood-Vessel-Game/" title="The first blood vessel game."></iframe>
@@ -69,208 +73,83 @@
 <iframe width="100%" height="80%" src="https://games.jmir.org/2025/1/e56269/" title="Publication in JMIR Serious Games"></iframe>
 ```
 
-Task performance time is linked to field of view. With [Self Citation](https://github.com/phaserjs/phaser/commit/32c82ef7283feb85eff71ab4f5298ff17fd8e3c4 "Citing myself by contributing a citation.cff to an existing project.")
-```
+## Adding a self citation:
 
-## 2024 Vessel Game
+-   [Self Citation](https://github.com/phaserjs/phaser/commit/32c82ef7283feb85eff71ab4f5298ff17fd8e3c4 "Citing myself by contributing a citation.cff to an existing project.")
+
+## 2024 Vessel Game - Connor Creasy ![](images/connor.png){width="40" fig-alt="Connor Creasy"}
 
 ```{=html}
 <iframe width="100%" height="60%" src="https://vessel-game.ew.r.appspot.com/" title="The second blood vessel game"></iframe>
 ```
 
-## 2024 Vessel Game Results
-
-![](images/fov_vs_time.png){width=100% fig-alt="Scatter plot showing a reduction in task performance time as the field of view increases."}
-
-![](images/fov_vs_cursor_motion.png){width=100% fig-alt="Scatter plot showing a reduction in cursor movement as the field of view increases."}
-
 <https://github.com/SciKit-Surgery/vessel-game>
 
-## 2025 Blood Vessel Game with Distraction
+## 2024 Vessel Game Results 0
+
+![](images/fov_vs_time.png){width="100%" fig-alt="Scatter plot showing a reduction in task performance time as the field of view increases."}
+
+## 2024 Vessel Game Results 1
+
+![](images/fov_vs_cursor_motion.png){width="100%" fig-alt="Scatter plot showing a reduction in cursor movement as the field of view increases."}
+
+## 2025 Blood Vessel Game: Aayushi Oza ![](images/ash.png){width="40" fig-alt="Aayushi Oza"}
 
 ```{=html}
 <iframe width="100%" height="60%" src="https://vessel-game-project.vercel.app/" title="The third blood vessel game."></iframe>
 ```
 
-play locally instead of on the web firefox file:///home/thompson/software/Vessel-Game-Project/index.html
+<file:///home/thompson/software/Vessel-Game-Project/index.html>
+
 <https://github.com/Ash2002-a/Vessel-Game-Project>
 
 ## Distraction Results
 
-- Generally similar to past games but inconclusive.
-- Difficult to recruit surgeons. 
-- Opensource analysis tools - [streamlit](https://streamlit.io/cloud "The analysis tools hosted on streamlit")
+-   Generally similar to past games but inconclusive.
+-   Difficult to recruit surgeons.
+-   Opensource analysis tools - [streamlit](https://streamlit.io/cloud "The analysis tools hosted on streamlit")
 
-## 2025 ARC Blog
+## Distraction Results
 
-```{=html}
-<iframe width="100%" src="https://blogs.ucl.ac.uk/research-software-development/using-serious-games-for-research-in-keyhole-surgery/" title="Blog on games for research in keyhole surgery."></iframe>
-```
+![](images/distraction_results.png){height="100%" fig-alt="Screenshot of qualitative analsis results hosted on streamlit."}
+
+## Summary of work to date
+
+-   Serious games can be used to create publishable data for surgical applications.
+-   Serious games make a fun and achievable MSc project.
+-   Recruiting sufficient surgeons is the main challenge.
+
+<https://blogs.ucl.ac.uk/research-software-development/using-serious-games-for-research-in-keyhole-surgery/">
 
 ## Game Engines in Research
+
+- What game engines feature in research outputs (publications)?
+- Task: perform a systematic literature review of game engines use.
+
+## [Game Engine Literature Review](https://github-pages.arc.ucl.ac.uk/game_engines_for_research/ "An open source literature review hosted on github.")
 
 ```{=html}
 <iframe width="90%" height="90%" src="https://github-pages.arc.ucl.ac.uk/game_engines_for_research/" title="A table of game engine software."></iframe>
 ```
 
-## 🧑💻 Professional expertise
+## Get involved.
 
-::::::::: columns
-:::: {.column width="33%"}
-::: {.callout-note .nonincremental .fragment icon="false"}
-## Software engineering
+- Read some papers, submit reviews.
+- Improve website design.
+- Implement searches of other databases.
+- Aiming for a publication sometime in 2026.
 
--   Create efficient, reliable, reusable & sustainable code​
--   Mentor in good practices
-:::
-::::
+## Upcoming gaming projects.
 
-:::: {.column width="33%"}
-::: {.callout-note .nonincremental .fragment icon="false"}
-## Data science
+- October 2025 - Exergaming: a serious game for dizziness disorder rehabilitation [#1137](https://github.com/UCL-ARC/arc-opportunities-tracker/issues/1137 "Exergaming on ARC Opportunity Tracker").
+- A series of minigames using a Tobii eye tracker to aid peadiatric treatment.
+- Hardware interface / game design. 50% FTE for 12 months.
 
--   Derive insights from data​
--   Develop novel algorithms / tools​
--   Modelling & simulation
-:::
-::::
+## With thanks to:
+- Aayushi Oza ![](images/ash.png){width="60" fig-alt="Aayushi Oza"}
 
-:::: {.column width="33%"}
-::: {.callout-note .nonincremental .fragment icon="false"}
-## Data stewardship
+- Connor Creasy ![](images/connor.png){width="60" fig-alt="Connor Creasy"}
 
--   Extracting long-term value from data
--   Data engineering & pipelines​
--   Publishing (FAIR) data
-:::
-::::
-:::::::::
+- Phoebe Whitley ![](images/phoebe.png){width="60" fig-alt="Phoebe Whitley"}
 
-::::::: columns
-:::: {.column width="50%"}
-::: {.callout-note .nonincremental .fragment icon="false"}
-## Infrastructure development
-
--   Design, build & maintain custom hardware & software infrastructure
--   Create performant, resilient systems​
-:::
-::::
-
-:::: {.column width="50%"}
-::: {.callout-note .nonincremental .fragment icon="false"}
-## Investment & strategy management
-
--   Supporting & directing research activities​
--   Delivery of large-scale projects
-:::
-::::
-:::::::
-
-::: {.r-fit-text .fragment}
-More details at <https://www.ucl.ac.uk/arc/research-technology-professionals​>
-:::
-
-## 🧑‍🏫 Training and support
-
-::::::::::: columns
-:::: {.column width="25%"}
-::: {.callout-tip .nonincremental .fragment icon="false"}
-## MSc modules
-
--   RSE with Python
--   Research computing
--   Machine learning with big data
--   Engineering for data analysis
-:::
-::::
-
-:::: {.column width="25%"}
-::: {.callout-tip .nonincremental .fragment icon="false"}
-## Training
-
--   Becoming a digital researcher
--   Improving research software
--   Using high performance computing
-:::
-::::
-
-:::: {.column width="25%"}
-::: {.callout-tip .nonincremental .fragment icon="false"}
-## Drop-in & support
-
--   In person and online drop-in sessions
--   Slack workspace for community discussion
--   Extensive online guides
-:::
-::::
-
-:::: {.column width="25%"}
-::: {.callout-tip .nonincremental .fragment icon="false"}
-## Centre for Doctoral Training
-
--   Collaborative Computational Modelling at the Interface
--   Joint venture between UCL & Imperial
--   EPSRC funded
-:::
-::::
-:::::::::::
-
-::: {.r-fit-text .fragment}
-More details at <https://www.ucl.ac.uk/arc/education​>
-:::
-
-## 🖥️ Platforms and services
-
-::::::::::::::: columns
-:::::::: {.column .fragment width="50%"}
-**Research computing**
-
-::: {.callout-note appearance="minimal"}
-Myriad (high throughput computing)
-:::
-
-::: {.callout-note appearance="minimal"}
-Kathleen (high performance computing)
-:::
-
-::: {.callout-note appearance="minimal"}
-Contender (novel architectures)
-:::
-
-::: {.callout-note appearance="minimal"}
-Aristotle, JupyterHub, RStudio (teaching)
-:::
-
-::: {.callout-note appearance="minimal"}
-Trusted research environment
-:::
-::::::::
-
-:::::::: {.column .fragment width="50%"}
-**Research data**
-
-::: {.callout-note appearance="minimal"}
-Research data storage (ongoing)
-:::
-
-::: {.callout-note appearance="minimal"}
-Research data repository (archival)
-:::
-
-::: {.callout-note appearance="minimal"}
-Research data transfer (inter-institution)
-:::
-
-::: {.callout-note appearance="minimal"}
-Electronic research notebook
-:::
-
-::: {.callout-note appearance="minimal"}
-Harbour (external data)
-:::
-::::::::
-:::::::::::::::
-
-::: {.r-fit-text .fragment}
-More details at <https://www.ucl.ac.uk/arc/platforms-and-services>
-:::
+- Matthew Clarkson ![](images/matt.jpeg){width="60" fig-alt="Matthew Clarkson"}
