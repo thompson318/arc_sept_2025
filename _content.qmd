@@ -14,7 +14,7 @@
 
 -   informus, education, EMAP, sense-base.
 
--   Research: how people collaborate with intelligent machines.
+
 
 ## Human Interest 0 - Background
 
@@ -45,8 +45,9 @@
 
 ## Games for Teaching and Research
 
+-   Research: how people collaborate with intelligent machines.
 -   2019 - [SciKit-Surgery F.R.E.D.](https://scikit-surgeryfred.ew.r.appspot.com/ "Scikit-Surgery FRED, web applicatin for teaching point based registration.")
--   Developing and effective method to teach the statistics of point (fiducual) based registration (during covid lockdown).
+-   Developing an effective method to teach the statistics of point (fiducual) based registration (during covid lockdown).
 -   Uses a game for formative assessment.
 
 ## SciKit-Surgery F.R.E.D.
