@@ -107,7 +107,7 @@
 ## 2024 Vessel Game Results 1
 
 ![](images/fov_vs_cursor_motion.png){width="100%" fig-alt="Scatter plot showing a reduction in cursor movement as the field of view increases."}
--- > 
+--> 
 
 ## 2025 Blood Vessel Game: Aayushi Oza ![](images/ash.png){width="40" fig-alt="Aayushi Oza"}
 
