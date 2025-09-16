@@ -6,8 +6,8 @@
 <script src="logo-slides_files/libs/quarto-html/tippy.umd.min.js"></script>
 <link href="logo-slides_files/libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="logo-slides_files/libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="logo-slides_files/libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.34">
+<link href="logo-slides_files/libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.8.24">
 
   <meta name="author" content="Stephen Thompson">
   <title>Development and use of (Serious) Games in Research</title>
@@ -29,7 +29,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="logo-slides_files/libs/revealjs/dist/theme/quarto-f563837468303362081e247dddd440d0.css">
+  <link rel="stylesheet" href="logo-slides_files/libs/revealjs/dist/theme/quarto-534cd8e3a96973385dffff3f4709048d.css">
   <link rel="stylesheet" href="css/style.css">
   <link href="logo-slides_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="logo-slides_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -172,6 +172,13 @@
 </section>
 <section id="human-interest-2---my-summer" class="slide level2">
 <h2>Human Interest 2 - My Summer 👍</h2>
+<ul>
+<li class="fragment"><p>Seals</p>
+<p><img data-src="images/seals1.jpg" alt="Photo of me in a sea kayak holding my right foot with my right hand." height="340"> <img data-src="images/seals0.jpg" alt="Photo of some Australian Fur Seals holding their back flipper with their front flipper." height="340"></p></li>
+</ul>
+</section>
+<section id="human-interest-2.1---my-summer" class="slide level2">
+<h2>Human Interest 2.1 - My Summer 👍</h2>
 <ul>
 <li class="fragment"><p>More time for <a href="https://cwc.play-cricket.com/website/results/6805674" title="My Cricket results on Play Cricket.">Cricket.</a></p></li>
 <li class="fragment"><p>🦅<img data-src="images/sea-eagle_crop.jpg" title="alt-fig=&quot;An indistinct photo of a white tailed eagle perched on a rock.&quot;" width="240"></p></li>
@@ -484,7 +491,7 @@
         margin: 0.15,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -558,13 +565,14 @@
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy
