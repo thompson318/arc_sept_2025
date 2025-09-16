@@ -34,6 +34,13 @@
 
 ## Human Interest 2 - My Summer 👍
 
+- Seals
+
+    ![](images/seals1.jpg){fig-alt="Photo of me in a sea kayak holding my right foot with my right hand." height="340"} ![](images/seals0.jpg){fig-alt="Photo of some Australian Fur Seals holding their back flipper with their front flipper." height="340"}
+
+
+## Human Interest 2.1 - My Summer 👍
+
 -   More time for [Cricket.](https://cwc.play-cricket.com/website/results/6805674 "My Cricket results on Play Cricket.")
 
 -   🦅![](images/sea-eagle_crop.jpg "alt-fig="An indistinct photo of a white tailed eagle perched on a rock.""){width="240"}
