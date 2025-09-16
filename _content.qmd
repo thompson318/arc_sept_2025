@@ -14,8 +14,6 @@
 
 -   informus, education, EMAP, sense-base.
 
-
-
 ## Human Interest 0 - Background
 
 ```{=html}
@@ -34,10 +32,9 @@
 
 ## Human Interest 2 - My Summer 👍
 
-- Seals
+-   Seals
 
     ![](images/seals1.jpg){fig-alt="Photo of me in a sea kayak holding my right foot with my right hand." height="340"} ![](images/seals0.jpg){fig-alt="Photo of some Australian Fur Seals holding their back flipper with their front flipper." height="340"}
-
 
 ## Human Interest 2.1 - My Summer 👍
 
@@ -52,16 +49,18 @@
 
 ## Games for Teaching and Research
 
--   Research: how people collaborate with intelligent machines.
--   2019 - [SciKit-Surgery F.R.E.D.](https://scikit-surgeryfred.ew.r.appspot.com/ "Scikit-Surgery FRED, web applicatin for teaching point based registration.")
--   Developing an effective method to teach the statistics of point (fiducual) based registration (during covid lockdown).
--   Uses a game for formative assessment.
+-   Research: how people learn to collaborate with intelligent machines.
+-   Simple tools: 🔪🔨 fairly easy to predict how they will be used.
+-   Intelligent tools 🤖 💻 ❓
+-   We can learn to collaborate with games.
 
 ## SciKit-Surgery F.R.E.D.
 
-```{=html}
-<iframe width="100%" height="80%" src="https://scikit-surgeryfred.ew.r.appspot.com/" title="SciKit-SurgeryFRED" style="-webkit-transform:scale(1.0);-moz-transform-scale(1.0);" ></iframe>
-```
+![](images/fitzpatrick.png "alt-fig="Image of 2009 conference paper by Fitzpatrick titled Fiducial registration error and target registration error are uncorrelated.""){width="640"}
+
+-   2019 - [SciKit-Surgery F.R.E.D.](https://scikit-surgeryfred.ew.r.appspot.com/ "Scikit-Surgery FRED, web applicatin for teaching point based registration.")
+-   Developing an effective method to teach the statistics of point (fiducual) based registration (during covid lockdown).
+-   Uses a game for formative assessment.
 
 ## SciKit-Surgery F.R.E.D. Results
 
@@ -82,6 +81,10 @@
 ```
 
 ## Adding a self citation:
+
+```{=html}
+<iframe width="60%" height="60%" src="https://phaser.io/" title="Phaser game engine."></iframe>
+```
 
 -   [Self Citation](https://github.com/phaserjs/phaser/commit/32c82ef7283feb85eff71ab4f5298ff17fd8e3c4 "Citing myself by contributing a citation.cff to an existing project.")
 
@@ -115,7 +118,7 @@
 
 -   Generally similar to past games but inconclusive.
 -   Difficult to recruit surgeons.
--   Opensource analysis tools - [streamlit](https://streamlit.io/cloud "The analysis tools hosted on streamlit")
+-   Opensource analysis tools - [streamlit](https://vessel-game-user.streamlit.app/ "The analysis tools hosted on streamlit")
 
 ## Distraction Results
 
@@ -127,12 +130,12 @@
 -   Serious games make a fun and achievable MSc project.
 -   Recruiting sufficient surgeons is the main challenge.
 
-<https://blogs.ucl.ac.uk/research-software-development/using-serious-games-for-research-in-keyhole-surgery/">
+[Summary in ARC Blog.](https://blogs.ucl.ac.uk/research-software-development/using-serious-games-for-research-in-keyhole-surgery/%22 "A summary of serious games for keyhole surgery on ARC's blog.)
 
 ## Game Engines in Research
 
-- What game engines feature in research outputs (publications)?
-- Task: perform a systematic literature review of game engines use.
+-   What game engines feature in research outputs (publications)?
+-   Task: perform a systematic literature review of game engines use.
 
 ## [Game Engine Literature Review](https://github-pages.arc.ucl.ac.uk/game_engines_for_research/ "An open source literature review hosted on github.")
 
@@ -142,22 +145,23 @@
 
 ## Get involved.
 
-- Read some papers, submit reviews.
-- Improve website design.
-- Implement searches of other databases.
-- Aiming for a publication sometime in 2026.
+-   Read some papers, submit reviews.
+-   Improve website design.
+-   Implement searches of other databases.
+-   Aiming for a publication sometime in 2026.
 
 ## Upcoming gaming projects.
 
-- October 2025 - Exergaming: a serious game for dizziness disorder rehabilitation [#1137](https://github.com/UCL-ARC/arc-opportunities-tracker/issues/1137 "Exergaming on ARC Opportunity Tracker").
-- A series of minigames using a Tobii eye tracker to aid peadiatric treatment.
-- Hardware interface / game design. 50% FTE for 12 months.
+-   October 2025 - Exergaming: a serious game for dizziness disorder rehabilitation [#1137](https://github.com/UCL-ARC/arc-opportunities-tracker/issues/1137 "Exergaming on ARC Opportunity Tracker").
+-   A series of minigames using a Tobii eye tracker to aid peadiatric treatment.
+-   Hardware interface / game design. 50% FTE for 12 months.
 
 ## With thanks to:
-- Aayushi Oza ![](images/ash.png){width="60" fig-alt="Aayushi Oza"}
 
-- Connor Creasy ![](images/connor.png){width="60" fig-alt="Connor Creasy"}
+-   Aayushi Oza ![](images/ash.png){width="60" fig-alt="Aayushi Oza"}
 
-- Phoebe Whitley ![](images/phoebe.png){width="60" fig-alt="Phoebe Whitley"}
+-   Connor Creasy ![](images/connor.png){width="60" fig-alt="Connor Creasy"}
 
-- Matthew Clarkson ![](images/matt.jpeg){width="60" fig-alt="Matthew Clarkson"}
+-   Phoebe Whitley ![](images/phoebe.png){width="60" fig-alt="Phoebe Whitley"}
+
+-   Matthew Clarkson ![](images/matt.jpeg){width="60" fig-alt="Matthew Clarkson"}
