@@ -42,10 +42,13 @@
 
 -   🦅![](images/sea-eagle_crop.jpg "alt-fig="An indistinct photo of a white tailed eagle perched on a rock.""){width="240"}
 
+<!-- 
 ## Human Interest 3 - My Summer 👍
 
 -   🚴 ![](images/bike_with_chicken_food.jpg "alt-fig="Photo of red cargo bike with bag of chicken food attached.""){width="240"}
 -   🐔 ![](images/chick.jpg "alt-fig="Photo of a cute chick.""){width="240"}
+
+-->
 
 ## Games for Teaching and Research
 
@@ -80,13 +83,13 @@
 <iframe width="100%" height="80%" src="https://games.jmir.org/2025/1/e56269/" title="Publication in JMIR Serious Games"></iframe>
 ```
 
-## Adding a self citation:
+## Phaser Game Engine:
 
-```{=html}
-<iframe width="60%" height="60%" src="https://phaser.io/" title="Phaser game engine."></iframe>
-```
+![](images/phaser.gif "alt-fig="Video of the Phaser game engine logo""){width="240"}
 
--   [Self Citation](https://github.com/phaserjs/phaser/commit/32c82ef7283feb85eff71ab4f5298ff17fd8e3c4 "Citing myself by contributing a citation.cff to an existing project.")
+-  JavaScript, game assets, scenes, physics etc.
+
+-  [Self Citation - added a citation.cff to repository.](https://github.com/phaserjs/phaser/commit/32c82ef7283feb85eff71ab4f5298ff17fd8e3c4 "Citing myself by contributing a citation.cff to an existing project.")
 
 ## 2024 Vessel Game - Connor Creasy ![](images/connor.png){width="40" fig-alt="Connor Creasy"}
 
@@ -100,9 +103,11 @@
 
 ![](images/fov_vs_time.png){width="100%" fig-alt="Scatter plot showing a reduction in task performance time as the field of view increases."}
 
+<!--
 ## 2024 Vessel Game Results 1
 
 ![](images/fov_vs_cursor_motion.png){width="100%" fig-alt="Scatter plot showing a reduction in cursor movement as the field of view increases."}
+-- > 
 
 ## 2025 Blood Vessel Game: Aayushi Oza ![](images/ash.png){width="40" fig-alt="Aayushi Oza"}
 
@@ -130,11 +135,12 @@
 -   Serious games make a fun and achievable MSc project.
 -   Recruiting sufficient surgeons is the main challenge.
 
-[Summary in ARC Blog.](https://blogs.ucl.ac.uk/research-software-development/using-serious-games-for-research-in-keyhole-surgery/%22 "A summary of serious games for keyhole surgery on ARC's blog.)
+[Summary in ARC Blog.](https://blogs.ucl.ac.uk/research-software-development/using-serious-games-for-research-in-keyhole-surgery/%22 "A summary of serious games for keyhole surgery on ARC's blog.")
 
 ## Game Engines in Research
 
--   What game engines feature in research outputs (publications)?
+-   Longer term: Build ARC knowledge base so we can deliver games for research effectively.
+-   Short term: What game engines feature in research outputs (publications)?
 -   Task: perform a systematic literature review of game engines use.
 
 ## [Game Engine Literature Review](https://github-pages.arc.ucl.ac.uk/game_engines_for_research/ "An open source literature review hosted on github.")
